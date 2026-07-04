@@ -1,4 +1,12 @@
 # Autonomous Robot Navigation System
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PLATFORM-JETSON%20%7C%20REALSENSE-25344F?style=for-the-badge&labelColor=555555" alt="Platform: Jetson and RealSense" />
+  <img src="https://img.shields.io/badge/SOFTWARE-PYTHON%20%2B%20ROS-0C8D7B?style=for-the-badge&labelColor=555555" alt="Software: Python and ROS" />
+  <img src="https://img.shields.io/badge/PROJECT-AUTONOMOUS%20ROBOT-C65D00?style=for-the-badge&labelColor=555555" alt="Project: Autonomous Robot" />
+  <img src="https://img.shields.io/badge/VISION-OPENCV%20%2B%20YOLOV4--TINY-1F5FDB?style=for-the-badge&labelColor=555555" alt="Vision: OpenCV and YOLOv4-tiny" />
+</p>
+
 This repository contains the source code for a ROS-based autonomous navigation system for a mobile robot. The system integrates two primary capabilities: vision-based lane following and depth-aware person tracking.
 ---
 ## System Architecture
